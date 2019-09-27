@@ -6,7 +6,8 @@
 			"adres":"430 rue Pierre Simon Laplace \n13592 Aix en provence",
 			"standard":"0820032008",
 			"lat":43.4756,
-			"lng":5.3787
+			"lng":5.3787,
+			"urlToImage":" ",
 		},
 		{
 			"id":1,
@@ -14,7 +15,8 @@
 			"adres":"15 rue Fernand Braudel \n75013 Paris",
 			"standard":"0820032008",
 			"lat":48.0929296,
-			"lng":2.3704934
+			"lng":2.3704934,
+			"urlToImage":" ",
 		},
 		{
 			"id":2,
@@ -22,7 +24,8 @@
 			"adres":"Immeuble Cap Courrouze, bat 3 ZAC de la Courrouze \n1C rue Louis Braille\n35135 Saint_Jacques de la Lande ",
 			"standard":"0820032008",
 			"lat":48.0929296,
-			"lng":-1.7064244
+			"lng":-1.7064244,
+			"urlToImage":" ",
 		}
 	]
 }
