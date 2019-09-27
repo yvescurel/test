@@ -7,7 +7,7 @@
 			"standard":"0820032008",
 			"lat":43.4756,
 			"lng":5.3787,
-			"urlToImage":" ",
+			"urlToImage":" "
 		},
 		{
 			"id":1,
@@ -16,7 +16,7 @@
 			"standard":"0820032008",
 			"lat":48.0929296,
 			"lng":2.3704934,
-			"urlToImage":" ",
+			"urlToImage":" "
 		},
 		{
 			"id":2,
@@ -25,7 +25,7 @@
 			"standard":"0820032008",
 			"lat":48.0929296,
 			"lng":-1.7064244,
-			"urlToImage":" ",
+			"urlToImage":" "
 		}
 	]
 }
