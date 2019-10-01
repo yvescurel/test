@@ -1,8 +1,6 @@
 {
 
-"listeSites":
-{
-  "sites": [
+"sites": [
     {
       "id": 0,
       "name": "Aix en Provence",
@@ -30,11 +28,8 @@
       "lng": -1.7064244,
       "urlToImage": " "
     }
-  ]
-},
+  ],
 
-"listeEmployees":
-{
   "employees": [
     {
       "id": 0,
@@ -310,5 +305,4 @@
       "activity": "Research,Assurance"
     }
   ]
-}
 }
