@@ -1,5 +1,82 @@
 {
 
+"restprox": [
+    {
+      "id": 0,
+      "siteId": 0,
+      "imageURL": "assets/images/eat/cafe-gourmand.jpg",
+      "nom": "Café Gourmand",
+      "distance": "800",
+      "type": "vegetarien"
+    },
+      {
+      "id": 1,
+      "siteId": 0,
+      "imageURL": "assets/images/eat/corso.jpg",
+      "nom": "Corso",
+      "distance": "900",
+      "type": "pizza"
+    },
+        {
+      "id": 2,
+      "siteId": 0,
+      "imageURL": "assets/images/eat/nix-nox.jpg",
+      "nom": "Nix Nox",
+      "distance": "600",
+      "type": "Chinois"
+    },
+        {
+      "id": 3,
+      "siteId": 0,
+      "imageURL": "assets/images/eat/nouvelle-gare.jpg",
+      "nom": "Nouvelle Gare",
+      "distance": "500",
+      "type": "vegetarien"
+    },
+        {
+      "id": 4,
+      "siteId": 0,
+      "imageURL": "assets/images/eat/nieli.jpg",
+      "nom": "Nieli",
+      "distance": "300",
+      "type": "viandes"
+    },
+        {
+      "id": 5,
+      "siteId": 0,
+      "imageURL": "assets/images/eat/eat01.jpg",
+      "nom": "Mes Salades",
+      "distance": "800",
+      "type": "Salades"
+    },
+        {
+      "id": 6,
+      "siteId": 1,
+      "imageURL": "assets/images/eat/eat.jpg",
+      "nom": "Miam miam",
+      "distance": "200",
+      "type": "vegetarien"
+    },
+        {
+      "id": 7,
+      "siteId": 1,
+      "imageURL": "assets/images/eat/rooms1.jpg",
+      "nom": "Ma salle",
+      "distance": "700",
+      "type": "sandwich"
+    },
+        {
+      "id": 8,
+      "siteId": 1,
+      "imageURL": "assets/images/eat/cafe-gourmand.jpg",
+      "nom": "Café Gournmand",
+      "distance": "800",
+      "type": "vegetarien"
+    }
+  ],
+
+
+
 "sites": [
     {
       "id": 0,
